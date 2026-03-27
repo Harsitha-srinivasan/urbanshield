@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "19e3b3aa-4953-4c2e-a1b9-de87af0fc4d4",
+      "name": "harsita ",
+      "email": "harsita@gmail.com",
+      "password": "$2b$10$jwkd0xqqfWaRx1QfzCNjlOytSw/0hXLoFNZv2SGDIg8ERRY87J3kq"
+    },
+    {
+      "id": "8a55da7a-ea31-4b46-80e2-d3782af305bb",
+      "name": "Tester",
+      "email": "test@test.com",
+      "password": "$2b$10$yM.i7Ioo2yCFL3S.1Vobh.Z/mb6UMJw6StKnwROAz0zmg/By86M.u"
+    }
+  ],
+  "evaluations": [
+    {
+      "id": "731c0745-cb60-453c-8980-43a2622284d5",
+      "userId": "19e3b3aa-4953-4c2e-a1b9-de87af0fc4d4",
+      "date": "2026-03-24T09:31:39.349Z",
+      "buildingType": "Residential",
+      "area": "1498",
+      "floors": "5",
+      "windowToWall": "27",
+      "material": "Mixed",
+      "greenCover": "20",
+      "ventilation": "Natural",
+      "temperature": "30",
+      "scores": {
+        "heat": 73,
+        "ventilation": 85,
+        "carbon": 70,
+        "final": 76
+      },
+      "suggestions": [
+        "Continue maintaining high sustainability standards."
+      ]
+    }
+  ]
+}
